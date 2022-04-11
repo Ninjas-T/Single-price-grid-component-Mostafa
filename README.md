@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [click here](https://ninjas-t.github.io/3-column-preview-card-component-main-Mostafa/)
+- Live Site URL: [click here](https://ninjas-t.github.io/Single-price-grid-component-Mostafa/)
 
 ---
 
