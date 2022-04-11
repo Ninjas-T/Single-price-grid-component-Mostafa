@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+body{
+    background-color: #E6EFF6;
+}
+main{
+    width: 85%;
+    margin: 70px auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+h4{
+    font-size: 24px;
+    font-weight: 700;
+}
+
+/***********************************************************************************/
+#join-community-section * {
+    margin: 0 auto;
+    width: 90%;
+    }
+#join-community-section{
+height: 280px;
+}
+
+#join-community-section h4{
+    color:  hsl(179,61%,43%);
+padding-top: 30px;
+}
+
+#join-community-section h5{
+    margin-top: 20px;
+    color:  hsl(71, 73%, 54%);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#join-community-section p{
+    margin-top: 20px;
+    color: rgb(175, 178, 185);
+    font-weight: 400;
+width: 95%;
+line-height: 25px;
+}
+
+
+/***********************************************************************************/
+#Monthly-Supscription * {
+    width: 90%;
+margin: 0 auto;
+}
+#Monthly-Supscription{
+    height: 280px;
+    background-color:  hsl(179,61%,43%);
+}
+
+
+#Monthly-Supscription h4  {
+    color: white;
+    padding-top: 30px;
+}
+#Monthly-Supscription p {
+    color: rgba(255, 255, 255, 0.77);
+    margin-top: 30px;
+    line-height: 30px;
+
+}
+#span29{
+font-size: 40px;
+color: white;
+}
+#per-month{
+    font-size: 20px;
+color: rgba(255, 255, 255, 0.437);
+margin-left: 20px;
+}
+
+#Monthly-Supscription button {
+    color: white;
+    margin: 30px 15px ;
+    border:none ;
+    background-color:hsl(71, 73%, 54%);
+    height: 50px;
+    border-radius: 7px;
+    font-size: 21px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+/***********************************************************************************/
+#why-us * {
+    width: 90%;
+margin: 0 auto;
+color: white;
+}
+#why-us{
+    height: 280px;   
+     border-bottom-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+
+    background-color:  #4ABEBD;
+}
+#why-us h4{
+    padding-top: 30px;
+    margin-bottom: 25px;
+}
+#why-us li{
+    list-style: none;
+    margin-top: 5px;
+    color: rgba(255, 255, 255, 0.687);
+}
